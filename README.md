@@ -12,7 +12,7 @@ To get the most from the day we recommend you have the following setup:
 
 ### Your Presenters for the day ###
 
-Heather Smith
-Natalie Lennon
-Beau Gaudron
+- Heather Smith
+- Natalie Lennon
+- Beau Gaudron
 
