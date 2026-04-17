@@ -6,8 +6,8 @@ Welcome to Stream one!
 
 To get the most from the day we recommend you have the following setup:
 
-- A paid Claude account
-- Claude Desktop App Installed, with access to Chat, Cowork and Code
+- A paid claude account (You will need a Pro account or above)
+- Claude Desktop App Installed (https://code.claude.com/docs/en/desktop-quickstart)
 
 ## Resources
 
