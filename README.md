@@ -9,6 +9,8 @@ To get the most from the day we recommend you have the following setup:
 - A paid claude account (You will need a Pro account or above)
 - Claude Desktop App Installed (https://code.claude.com/docs/en/desktop-quickstart)
 
+_The activities we are doing are system agnostic, they should work if you are using Windows, or if you are using a Mac_
+
 ## Resources
 
 The aim of today is to learn to build with AI tools
