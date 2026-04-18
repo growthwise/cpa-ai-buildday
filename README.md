@@ -22,7 +22,7 @@ You can also download all current resources by going to the main site here https
 
 ### Your Presenters for the day ###
 
-- Heather Smith
-- Natalie Lennon
-- Beau Gaudron
+- Heather Smith (https://www.linkedin.com/in/heathersmithau/)
+- Natalie Lennon (https://www.linkedin.com/in/natalielennon/)
+- Beau Gaudron (https://www.linkedin.com/in/beaugaudron/)
 
