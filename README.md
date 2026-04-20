@@ -22,11 +22,13 @@ You can also download all current resources by going to the main site here https
 
 <img width="473" height="360" alt="image" src="https://github.com/user-attachments/assets/11ab6c23-7a3a-4f07-a150-60fcebe9b387" />
 
+
 We recommend doing the method above as it will capture absolutely everything that you need for today
+
 
 ## Today's Schedule ##
 
-The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD)
+The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
 
 ### Your Presenters for the day ###
 
