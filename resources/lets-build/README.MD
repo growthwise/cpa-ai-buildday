@@ -19,5 +19,9 @@ Now lets prompt
 
 "Create a spreadhseet summarising the transactions in this folder, and create a dashboard that shows the breakdown of spend categories"
 
+![alt text](image.png)
+
+Click Let's Go
+
 Let cowork do the work...
 
