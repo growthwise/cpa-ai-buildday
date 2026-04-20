@@ -61,5 +61,5 @@ This makes the skill re-usable based on trigger words that you will see in the s
 
 We have [an example using a pre-defined build file](/resources/build-a-site/) you can try.
 
-It uses a [CLAUDE.md](/resources/build-a-site/CLAUDE.MD) file with definitions on what to do, so you don't have to prompt from scratch.
+It uses a [CLAUDE.md](/resources/build-a-site/CLAUDE.MD) file with definitions on what to do, so you don't have to prompt from scratch. You can read the file to get an understand of how the project has been setup, and maybe you can even create your own!
 
