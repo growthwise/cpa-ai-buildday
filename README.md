@@ -1,6 +1,8 @@
-# CPA AI Build Day - Stream One #
+# CPA AI Build Day - Stream A
 
-Welcome to Stream one!
+Welcome to Stream A! Stream A is for you if you're using AI but want to know extend your knowledge and capabilties of the systems. 
+
+We like to refer to it as "moving beyond communication" we will be looking at using AI (Claude in particular) for actually completing tasks for us, not just for rewriting emails. 
 
 ## Setup Requirements ##
 
