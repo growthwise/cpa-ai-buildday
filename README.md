@@ -22,6 +22,8 @@ You can also download all current resources by going to the main site here https
 
 <img width="473" height="360" alt="image" src="https://github.com/user-attachments/assets/11ab6c23-7a3a-4f07-a150-60fcebe9b387" />
 
+We recommend doing the method above as it will capture absolutely everything that you need for today
+
 ### Your Presenters for the day ###
 
 - Heather Smith (https://www.linkedin.com/in/heathersmithau/)
