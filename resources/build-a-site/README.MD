@@ -40,6 +40,8 @@ Type this prompt "Read CLAUDE.MD and get started" then click "Lets Go"
 
 You will be guided through the rest of the build :-) Remember to answer the questions at the bottom of the window. 
 
+![alt text](image-6.png)
+
 
 
 
