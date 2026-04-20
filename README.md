@@ -24,6 +24,10 @@ You can also download all current resources by going to the main site here https
 
 We recommend doing the method above as it will capture absolutely everything that you need for today
 
+## Today's Schedule ##
+
+The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD)
+
 ### Your Presenters for the day ###
 
 - Heather Smith (https://www.linkedin.com/in/heathersmithau/)
