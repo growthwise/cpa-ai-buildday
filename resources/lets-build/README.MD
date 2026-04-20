@@ -59,7 +59,7 @@ This makes the skill re-usable based on trigger words that you will see in the s
 
 ## What About Building Something Else? ##
 
-We have an example using a pre-defined build file that you can try [here](resources/build-a-site) 
+We have an example using a pre-defined build file that you can try [here](../resources/build-a-site) 
 
-This uses a [CLAUDE.MD](resources/build-a-site/CLAUDE.MD) file with definitions on what to do, instead of requiring prompting. 
+This uses a [CLAUDE.MD](../resources/build-a-site/CLAUDE.MD) file with definitions on what to do, instead of requiring prompting. 
 
