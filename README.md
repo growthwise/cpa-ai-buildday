@@ -21,7 +21,8 @@ You can also download all current resources by going to the main site here https
 
 "Code" and "Download Zip"
 
-<img width="473" height="360" alt="image" src="https://github.com/user-attachments/assets/11ab6c23-7a3a-4f07-a150-60fcebe9b387" />
+
+![alt text](image.png)
 
 
 We recommend doing the method above as it will capture absolutely everything that you need for today
@@ -30,6 +31,8 @@ We recommend doing the method above as it will capture absolutely everything tha
 ## Today's Schedule ##
 
 The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
+
+This page will remain active even after today, so if you feel like you couldn't complete an exercise you can come back to the resources here to continue learning!
 
 ### Your Presenters for the day ###
 
