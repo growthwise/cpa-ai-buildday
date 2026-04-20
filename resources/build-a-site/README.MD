@@ -1,4 +1,4 @@
-# Example Site Builder using CLAUDE.MD #
+# Example Site Builder using CLAUDE.MD in Cowork #
 
 We've put this together so you can quickly see a build example. Follow the instructions to try for yourself.
 
@@ -38,7 +38,9 @@ Type this prompt "Read CLAUDE.MD and get started" then click "Lets Go"
 
 ![alt text](image-5.png)
 
-You will be guided through the rest of the build :-)
+You will be guided through the rest of the build :-) Remember to answer the questions at the bottom of the window. 
+
+
 
 
 
