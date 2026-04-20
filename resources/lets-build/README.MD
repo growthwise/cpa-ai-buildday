@@ -57,9 +57,9 @@ Upon clicking download, in the top right of the window that pops up click on "Sa
 
 This makes the skill re-usable based on trigger words that you will see in the skill window. 
 
-## What About Building Something Else? ##
+## What about building something else?
 
-We have an example using a pre-defined build file that you can try [here](../resources/build-a-site) 
+We have [an example using a pre-defined build file](/resources/build-a-site/) you can try.
 
-This uses a [CLAUDE.MD](../resources/build-a-site/CLAUDE.MD) file with definitions on what to do, instead of requiring prompting. 
+It uses a [CLAUDE.md](/resources/build-a-site/CLAUDE.md) file with definitions on what to do, so you don't have to prompt from scratch.
 
