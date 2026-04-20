@@ -1,4 +1,4 @@
-# Building in Cowork Example (Simple) #
+# Building in Cowork Example (Simple Technique) #
 
 Before getting started here first we need to consider a few things
 
@@ -24,4 +24,13 @@ Now lets prompt
 Click Let's Go
 
 Let cowork do the work...
+
+Don't be afraid to continue prompting it if you want to expand on this further
+
+# Make It Re-usable #
+
+If the task you are getting Cowork to complete is something you do often once Cowork's produced an output you can turn it into a skill. 
+
+Hover over the title at the top of cowork, click the drop down and click on "Turn Into Skill"
+
 
