@@ -2,9 +2,11 @@
 
 We've put this together so you can quickly see a build example. Follow the instructions to try for yourself.
 
-The instructions below are for Claude Cowork, however if you are using OpenAI Codex you can just specify the folder as your project, it will impoort CLAUDE.MD as AGENTS.MD and you can then type
+The instructions below are for Claude Cowork, however if you are using OpenAI Codex you can just specify the folder as your project, it will import CLAUDE.MD as AGENTS.MD and you can then type
 
 ```Read Agents.MD and get started```
+
+Otherwise, all Claude instructions are below :-) 
 
 ### Downloading Files ###
 
