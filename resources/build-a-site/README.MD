@@ -48,6 +48,7 @@ You will be guided through the rest of the build :-) Remember to answer the ques
 
 ![alt text](image-6.png)
 
+At the end of the build, you should have a basic website generated for you to review. 
 
 
 
