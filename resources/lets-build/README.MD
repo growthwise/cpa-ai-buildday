@@ -8,8 +8,9 @@ Before getting started here first we need to consider a few things
 
 We're going to use some dummy data for this. 
 
-Go to this site https://drive.google.com/drive/folders/11-miY1tK7kxk4J4_xXWRu0iel-0aiYJa and download the folder. This is all dummy data provided
-by our friend @Jason Staats
+Go to this site https://drive.google.com/drive/folders/11-miY1tK7kxk4J4_xXWRu0iel-0aiYJa and download the folder. 
+
+The dummy data is all provided free by our friend [Jason Staats](https://www.linkedin.com/in/jstaats/)
 
 Unzip the file.
 
