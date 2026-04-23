@@ -14,7 +14,7 @@ To get the most from the day we recommend you have the following setup:
 
 _The activities we are doing are system agnostic, they should work if you are using Windows, or if you are using a Mac_
 
-_Whilst the Focus today is for Claude Cowork many of the exercises will also work in OpenAI Codex_
+_Whilst the Focus today is on Using Claude and Claude Cowork many of the exercises will also work in OpenAI Codex as well_
 
 
 ## Resources
