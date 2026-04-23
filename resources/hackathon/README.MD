@@ -36,6 +36,7 @@ Regardless of whether you choose option 1 or option 2 you should outline criteri
 | ✅ Do | ❌ Don't |
 | --- | --- |
 | In the current folder is an excel file, we need to use the data in Column A (Name), Column B (Sales Value) Column M (Marketing Channel) and Column Z (Date) to generate a dashboard that shows us a breakdown of sales attributed to different marketing channels and sales over time based on the date. Output the result as a PDF File | Make me a dashboard from my spreadsheet |
+| Using the account transactions report PDF stored in my folder, analyse the data and find any anomalies. Look for things such as expenses that seem to be miscategorised, are larger than expected e.g. office expenses over $1000 give me an explanation of anything found | Find whats wrong in this report |
 
 ## Test
 
