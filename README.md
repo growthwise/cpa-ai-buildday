@@ -32,7 +32,7 @@ This page and the resources will remain live even after the build day, so if you
 
 ## Today's Schedule 
 
-The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
+The schedule for stream A can be found [here](SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
 
 This page will remain active even after today, so if you feel like you couldn't complete an exercise you can come back to the resources here to continue learning!
 
