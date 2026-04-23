@@ -20,7 +20,6 @@ _Whilst the Focus today is on Using Claude and Claude Cowork many of the exercis
 ## Resources
 
 The aim of today is to learn to build with AI tools
-The resources for each session can be found in the [Resources](./resources) folder
 
 You can also download all current resources from this page by clicking on "Code" and "Download Zip"
 
