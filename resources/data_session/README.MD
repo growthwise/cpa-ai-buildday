@@ -21,6 +21,16 @@ At this level, you're just using the data to make sure your ambitions with it ca
 
 ## Beyond Demo Data 
 
+Once you're comfortable with demo data, you'll likely want to move onto real data for real tasks. For this the best things to consider are:
+
+- What output do I need?
+- To get that output what inputs are required?
+- Do my inputs contain PII or other Identifying data?
+
+From here sometimes simple things can be effective enough e.g. what if your system just uses a client code thats numeric as an identifier you may be able to delete the other identifying columns because the code enough still allows for your output
+
+If it doesn't though you can create coded data from your existing data, that you can use a "key" to unlock when your LLM has responded. 
+
 ## Account Types
 
 Certain account types do offer levels of data protection, once you're comfortable with your workflows you may want to consider upgrading to commercial type accounts, but keep in mind that you still need to follow relevant legislation, and recommendations provided by your industry bodies. 
