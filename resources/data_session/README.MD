@@ -35,6 +35,8 @@ _Some data types will require more work than others e.g. PDF's are not easily ob
 
 Remember as well sometimes data is exposed in more than one place, for example if you have the ability to extract data from an API, maybe it has a different data shape that requires less work to obfuscate. 
 
+If this is still limiting to you, the next step would be to look at creating your own tools using Format Preserving Encryption that can be used on several files, but is a much more technical process.  
+
 ## Account Types
 
 Certain account types do offer levels of data protection, once you're comfortable with your workflows you may want to consider upgrading to commercial type accounts, but keep in mind that you still need to follow relevant legislation, and recommendations provided by your industry bodies. 
