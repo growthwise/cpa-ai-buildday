@@ -1,4 +1,4 @@
-## Putting It All Together ##
+# Putting It All Together #
 
 The last part of today is for you to attempt a build. Below is a basic framework to consider before you start
 
