@@ -42,7 +42,32 @@ Make sure you as well you include things like what you expect the output to be. 
 
 ## Test
 
+Once Cowork, or Code or event a chat has generated a result you need to test it.
+
+This is where most people begin getting frustrated. Remember to treat the AI as a tool, not a wizard. 
+
+When you test break down functionality and Usability and Readability. 
+
+- Functionality: Did it do what I expected
+- Usability and Readability: is it easy enough to do?
+
+Work on one at a time, if functionality lacked - reprompt to fix that issue by itself before moving on to usability
+
+_Tip: When refining, ask Claude "Can you keep track of issues in and issues file" this will keep track of what you've found during this process and can make it easier to remember if you have to later recommence a project or session_
+
+In the test page you're really aiming for a minimum vial product i.e. make it work. It might look ugly and feel clunky, but the aim is to make sure it functions. 
+
+You should expect things to break, but the break should guide your next prompt. 
+
 ## Refine 
+
+Beyond make it work, make it better :-D
+
+Refining is about being picky, the little things that you weren't super concerned with in the test phase belong here. For exmaple, now it works maybe you want 
+to make whatever was created "on brand" to your business.
+
+Maybe something wasn't quite right, but didnt cause enough issues at the time to require mnuch attention. Now you take the time to refine and fix further. 
 
 ## Repeat/Share
 
+Now that you've done the hard work don't forget to turn your creation into a [skill](https://code.claude.com/docs/en/skills) so that you can re-use it, and share with your team.
