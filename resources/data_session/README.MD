@@ -29,7 +29,7 @@ Once you're comfortable with demo data, you'll likely want to move onto real dat
 
 From here sometimes simple things can be effective enough e.g. what if your system just uses a client code thats numeric as an identifier you may be able to delete the other identifying columns because the code enough still allows for your output
 
-If it doesn't though you can create coded data from your existing data, that you can use a "key" to unlock when your LLM has responded. 
+If it doesn't though you can create coded data from your existing data, that you can use a "key" or "mapping table" to unlock when your LLM has responded. 
 
 _Some data types will require more work than others e.g. PDF's are not easily obfuscated_
 
