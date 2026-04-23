@@ -31,6 +31,8 @@ From here sometimes simple things can be effective enough e.g. what if your syst
 
 If it doesn't though you can create coded data from your existing data, that you can use a "key" to unlock when your LLM has responded. 
 
+_Some data types will require more work than others e.g. PDF's are not easily obfuscated_
+
 ## Account Types
 
 Certain account types do offer levels of data protection, once you're comfortable with your workflows you may want to consider upgrading to commercial type accounts, but keep in mind that you still need to follow relevant legislation, and recommendations provided by your industry bodies. 
