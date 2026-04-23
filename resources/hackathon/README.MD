@@ -4,6 +4,8 @@ The last part of today is for you to attempt a build. Below is a basic framework
 
 # Build Framework #
 
+A build framework you can follow is below. Plan, Define, Build (Test), Refine, Share.
+
 ## Plan 
 
 You all have domain knowledge, you know how you achieve a task. Before you actually dive into building something think of what the normal process is, or if its something brand 
@@ -40,7 +42,7 @@ Regardless of whether you choose option 1 or option 2 you should outline criteri
 
 Make sure you as well you include things like what you expect the output to be. For example if a spreadsheet will be fine make sure you define that vs if you want an easily readable website or PDF, ensure you ask for that. 
 
-## Test
+## Build (Test)
 
 Once Cowork, or Code or event a chat has generated a result you need to test it.
 
