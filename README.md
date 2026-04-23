@@ -30,9 +30,9 @@ We recommend doing the method above as it will capture absolutely everything tha
 This page and the resources will remain live even after the build day, so if you don't get through everything don't be concerned - you will have more time to continue trying and learning.
 
 
-## Today's Schedule 
+# Today's Schedule 
 
-The schedule for stream A can be found [here](SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
+The schedule for stream A can be found [here](SCHEDULE.MD) the table on the schedule has direct links to the instructions for each session for you to follow along on the day, or even after the day ends
 
 This page will remain active even after today, so if you feel like you couldn't complete an exercise you can come back to the resources here to continue learning!
 
