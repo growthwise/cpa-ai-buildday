@@ -4,7 +4,7 @@ Welcome to Stream A! Stream A is for you if you're using AI but want to know ext
 
 We like to refer to it as "moving beyond communication" we will be looking at using AI (Claude in particular) for actually completing tasks for us, not just for rewriting emails. 
 
-## Setup Requirements ##
+## Setup Requirements 
 
 To get the most from the day we recommend you have the following setup:
 
@@ -31,13 +31,13 @@ We recommend doing the method above as it will capture absolutely everything tha
 This page and the resources will remain live even after the build day, so if you don't get through everything don't be concerned - you will have more time to continue trying and learning.
 
 
-## Today's Schedule ##
+## Today's Schedule 
 
 The schedule for stream A can be found [here](STREAM_A_SCHEDULE.MD) the schedule contains links to readme files for each session where applicable, so best to go there to follow along throughout the day. 
 
 This page will remain active even after today, so if you feel like you couldn't complete an exercise you can come back to the resources here to continue learning!
 
-### Your Presenters for the day ###
+### Your Presenters for the day
 
 - Heather Smith (https://www.linkedin.com/in/heathersmithau/)
 - Natalie Lennon (https://www.linkedin.com/in/natalielennon/)
