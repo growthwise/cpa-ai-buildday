@@ -22,13 +22,9 @@ _Whilst the Focus today is for Claude Cowork many of the exercises will also wor
 The aim of today is to learn to build with AI tools
 The resources for each session can be found in the [Resources](./resources) folder
 
-You can also download all current resources by going to the main site here https://github.com/growthwise/cpa-ai-buildday and then click on
-
-"Code" and "Download Zip"
-
+You can also download all current resources from this page by clicking on "Code" and "Download Zip"
 
 ![alt text](image.png)
-
 
 We recommend doing the method above as it will capture absolutely everything that you need for today
 
