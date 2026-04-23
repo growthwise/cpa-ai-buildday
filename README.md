@@ -29,6 +29,8 @@ You can also download all current resources by going to the main site here https
 
 We recommend doing the method above as it will capture absolutely everything that you need for today
 
+This page and the resources will remain live even after the build day, so if you don't get through everything don't be concerned - you will have more time to continue trying and learning.
+
 
 ## Today's Schedule ##
 
