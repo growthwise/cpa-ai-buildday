@@ -33,6 +33,8 @@ If it doesn't though you can create coded data from your existing data, that you
 
 _Some data types will require more work than others e.g. PDF's are not easily obfuscated_
 
+Remember as well sometimes data is exposed in more than one place, for example if you have the ability to extract data from an API, maybe it has a different data shape that requires less work to obfuscate. 
+
 ## Account Types
 
 Certain account types do offer levels of data protection, once you're comfortable with your workflows you may want to consider upgrading to commercial type accounts, but keep in mind that you still need to follow relevant legislation, and recommendations provided by your industry bodies. 
