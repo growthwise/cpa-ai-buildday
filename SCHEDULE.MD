@@ -1,6 +1,6 @@
 | Time     | Topic                     | Description                                             | Speaker                   | Resource                                   |
 |----------|---------------------------|---------------------------------------------------------|---------------------------|--------------------------------------------|
-| 11:05 AM | Welcome                   | Kick-off and housekeeping                               | Heather                   |                                            |
+| 11:05 AM | Welcome to Stream A!      | Kick-off and housekeeping                               | Heather                   |                                            |
 | 11:15 AM | Quick Wins with Claude    | Learn some practical wins and example of using Claude   | Heather, Beau, Nat, Sarah | [Quick Wins](resources/quick_wins)         |
 | 11:35 AM | Don't Be Afraid To Build  | Data techniques for staying safe so you can build       | Beau                      | [Data Obfuscation](resources/data_session) |
 | 12:20 PM | Let's Talk Terminology    | Skills, Projects, Routines, Schedules — What are they   | Heather, Beau, Nat        | [Terminology](resources/terminology)       |
