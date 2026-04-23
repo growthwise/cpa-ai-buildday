@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-This project builds a professional marketing website for **{{FIRM_NAME}}**, an American accounting firm. The goal is a polished, trustworthy, conversion-focused site that communicates expertise and builds client confidence.
+This project builds a professional marketing website for **{{FIRM_NAME}}**, an Australian accounting firm. The goal is a polished, trustworthy, conversion-focused site that communicates expertise and builds client confidence.
 
 The site's copy, tone, and personality should be informed by the firm's story:
 
@@ -109,12 +109,12 @@ Build the following sections in order:
 - Secondary CTA: *"See Our Services"* — smooth-scrolls to `#services`
 
 ### 2. Services
-Highlight the firm's core offerings with short descriptions. Suggested services for an American accounting firm:
+Highlight the firm's core offerings with short descriptions. Suggested services for an Australian accounting firm:
 - Tax Preparation & Planning (Individual and Business)
-- Bookkeeping & Payroll
+- Bookkeeping & Payroll Services
 - CFO Advisory Services
 - Business Formation & Entity Structuring
-- IRS Representation & Audit Support
+- Australian Tax Office Liasion
 - Financial Reporting & Compliance
 
 Use an icon-based card grid layout. Keep copy tight — one sentence per service.
