@@ -1,0 +1,45 @@
+## Putting It All Together ##
+
+The last part of today is for you to attempt a build. Below is a basic framework to consider before you start
+
+# Build Framework #
+
+## Plan 
+
+You all have domain knowledge, you know how you achieve a task. Before you actually dive into building something think of what the normal process is, or if its something brand 
+new to your operations think of what the result *should* be at the end
+
+- What are the current blockers for the task at hand? 
+- What happens manually that may be able to be automated?
+- What data is needed and how can it be provided? 
+- What technology might be required? E.g. do you need special software/skills
+- Who has to use this?
+- What is an accetable output?
+- Importantly as well: Don't reinvent the wheel! Consider the ROAD strategy (Rip Off And Duplicate) if there are skills that already achieve the task at hand test them first, you might be able to use it as your stepping stone to completion
+
+At this stage you can certainly use an LLM to scaffold your plan, talk back and forth with it to surface things you may not have thought of.
+
+## Define
+
+Beyond your plan, you need to give your AI tool instructions. The good news here is from your plan, you've likely done most of the work. 
+
+_Tip: if you used AI to create your plan, at the end type a prompt "Can you create a markdown file of my plan"_
+
+When providing your instructions, you have two options
+
+1) Directly prompt what you want *with detail*
+
+2) Build an instructions file (CLAUDE.MD or AGENTS.MD) with instructions of what you want built. An example CLAUDE.MD file is available [here](https://github.com/growthwise/cpa-ai-buildday/blob/main/resources/build-a-site/CLAUDE.MD) the advantage of an instructions file is you can easily move between AI tools by just taking the file with you and you can update it at the refine step
+
+Regardless of whether you choose option 1 or option 2 you should outline criteria in your prompt, aim to avoid ambiguity. Example do's and don't below
+
+| ✅ Do | ❌ Don't |
+| --- | --- |
+| In the current folder is an excel file, we need to use the data in Column A (Name), Column B (Sales Value) Column M (Marketing Channel) and Column Z (Date) to generate a dashboard that shows us a breakdown of sales attributed to different marketing channels and sales over time based on the date. Output the result as a PDF File | Make me a dashboard from my spreadsheet |
+
+## Test
+
+## Refine 
+
+## Repeat/Share
+
