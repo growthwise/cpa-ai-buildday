@@ -27,6 +27,8 @@ You can also download all current resources from this page by clicking on "Code"
 
 We recommend doing the method above as it will capture absolutely everything that you need for today
 
+If you prefer video instructions, follow along [here](https://youtu.be/5bUFaOPcW2U)
+
 This page and the resources will remain live even after the build day, so if you don't get through everything don't be concerned - you will have more time to continue trying and learning.
 
 
