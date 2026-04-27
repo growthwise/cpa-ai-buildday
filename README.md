@@ -38,7 +38,7 @@ The schedule for stream A can be found [here](SCHEDULE.MD) the table on the sche
 
 This page will remain active even after today, so if you feel like you couldn't complete an exercise you can come back to the resources here to continue learning!
 
-### Your Presenters for the day
+### Your Presenters for the DAY
 
 - Heather Smith (https://www.linkedin.com/in/heathersmithau/)
 - Natalie Lennon (https://www.linkedin.com/in/natalielennon/)
