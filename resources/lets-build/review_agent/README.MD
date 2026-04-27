@@ -24,3 +24,5 @@ The skill currently only uses these reports
 
 If there are any you would like to add, you can now use this skill as a starting template
 
+You can also refer to the [References](references) folder to see how the rules for each report are currently set. 
+
