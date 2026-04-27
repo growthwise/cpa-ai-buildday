@@ -1,0 +1,101 @@
+﻿Date,Work,Team Member,Role,Task Type,Time (Minutes),Fee Type
+2/03/2026,BAS,C101,Bookkeeper,Business Advisory,30,Time and Materials
+2/03/2026,Bookkeeping,C101,Bookkeeper,Data Entry,60,Fixed Fee
+2/03/2026,Compliance Review,C102,Accountant,Compliance,30,Fixed Fee
+3/03/2026,BAS,C103,Bookkeeper,Business Advisory,15,Fixed Fee
+5/03/2026,BAS,C101,Bookkeeper,BAS Preparation,75,Fixed Fee
+6/03/2026,Year End,C103,Bookkeeper,Review,45,Fixed Fee
+6/03/2026,Tax Planning,C104,Accountant,Tax Planning,25,Time and Materials
+6/03/2026,BAS,C102,Accountant,Business Advisory,50,Fixed Fee
+9/03/2026,Payroll,C103,Bookkeeper,Compliance,30,Time and Materials
+9/03/2026,BAS,C103,Bookkeeper,BAS Preparation,45,Fixed Fee
+9/03/2026,BAS,C104,Accountant,Business Advisory,240,Fixed Fee
+9/03/2026,BAS,C101,Bookkeeper,Compliance,75,Fixed Fee
+9/03/2026,Tax Return,C102,Accountant,Tax Return,15,Fixed Fee
+10/03/2026,Bookkeeping,C101,Bookkeeper,Bookkeeping,40,Fixed Fee
+10/03/2026,Year End,C101,Bookkeeper,Year End,30,Fixed Fee
+10/03/2026,BAS,C102,Accountant,Compliance,30,Fixed Fee
+11/03/2026,Superannuation,C104,Accountant,SMSF,210,Fixed Fee
+11/03/2026,Business Advisory,C102,Accountant,Strategic Planning,45,Time and Materials
+12/03/2026,Bookkeeping,C103,Bookkeeper,Reconciliation,75,Time and Materials
+13/03/2026,Year End,C103,Bookkeeper,Year End,45,Fixed Fee
+13/03/2026,Payroll,C101,Bookkeeper,Payroll,60,Fixed Fee
+16/03/2026,Tax Return,C104,Accountant,Tax Return,105,Fixed Fee
+18/03/2026,Payroll,C103,Bookkeeper,STP,20,Fixed Fee
+18/03/2026,Year End,C104,Accountant,Review,45,Fixed Fee
+18/03/2026,Onboarding,C104,Accountant,Bookkeeping,60,Fixed Fee
+18/03/2026,Bookkeeping,C101,Bookkeeper,Bookkeeping,25,Fixed Fee
+18/03/2026,Year End,C101,Bookkeeper,Compliance,35,Fixed Fee
+19/03/2026,Compliance Review,C104,Accountant,Compliance,75,Fixed Fee
+19/03/2026,Year End,C101,Bookkeeper,Compliance,90,Fixed Fee
+20/03/2026,Payroll,C103,Bookkeeper,Compliance,120,Fixed Fee
+20/03/2026,Onboarding,C101,Bookkeeper,Bookkeeping,40,Fixed Fee
+20/03/2026,Business Advisory,C102,Accountant,Business Advisory,120,Time and Materials
+20/03/2026,Year End,C102,Accountant,Review,40,Fixed Fee
+20/03/2026,Onboarding,C102,Accountant,Bookkeeping,180,Fixed Fee
+23/03/2026,Payroll,C103,Bookkeeper,STP,60,Fixed Fee
+24/03/2026,BAS,C102,Accountant,BAS Preparation,105,Fixed Fee
+25/03/2026,Year End,C104,Accountant,Review,60,Fixed Fee
+25/03/2026,Superannuation,C104,Accountant,Superannuation,60,Time and Materials
+25/03/2026,Onboarding,C101,Bookkeeper,Setup,10,Fixed Fee
+26/03/2026,Superannuation,C104,Accountant,Superannuation,90,Fixed Fee
+27/03/2026,Year End,C102,Accountant,Review,75,Fixed Fee
+30/03/2026,Superannuation,C104,Accountant,Superannuation,60,Fixed Fee
+30/03/2026,Tax Planning,C104,Accountant,Business Advisory,75,Time and Materials
+30/03/2026,Payroll,C101,Bookkeeper,STP,105,Fixed Fee
+30/03/2026,BAS,C101,Bookkeeper,Compliance,60,Fixed Fee
+30/03/2026,Year End,C101,Bookkeeper,Compliance,25,Time and Materials
+30/03/2026,Tax Planning,C102,Accountant,Tax Planning,60,Fixed Fee
+31/03/2026,Bookkeeping,C101,Bookkeeper,Bookkeeping,240,Fixed Fee
+31/03/2026,Superannuation,C102,Accountant,Superannuation,30,Fixed Fee
+1/04/2026,Bookkeeping,C101,Bookkeeper,Reconciliation,15,Time and Materials
+1/04/2026,Onboarding,C101,Bookkeeper,Setup,90,Time and Materials
+1/04/2026,Compliance Review,C102,Accountant,Review,20,Time and Materials
+2/04/2026,BAS,C103,Bookkeeper,BAS Preparation,90,Fixed Fee
+2/04/2026,FBT,C104,Accountant,Compliance,25,Fixed Fee
+3/04/2026,Payroll,C103,Bookkeeper,Compliance,45,Fixed Fee
+3/04/2026,Bookkeeping,C103,Bookkeeper,Bookkeeping,75,Fixed Fee
+3/04/2026,Business Advisory,C102,Accountant,Strategic Planning,120,Time and Materials
+6/04/2026,BAS,C104,Accountant,BAS Preparation,50,Fixed Fee
+6/04/2026,FBT,C104,Accountant,Compliance,180,Fixed Fee
+6/04/2026,Business Advisory,C104,Accountant,Strategic Planning,120,Time and Materials
+6/04/2026,Business Advisory,C102,Accountant,Strategic Planning,35,Time and Materials
+7/04/2026,Onboarding,C103,Bookkeeper,Setup,40,Fixed Fee
+7/04/2026,Compliance Review,C102,Accountant,Review,75,Time and Materials
+8/04/2026,Superannuation,C102,Accountant,Superannuation,35,Fixed Fee
+9/04/2026,Compliance Review,C104,Accountant,Review,105,Fixed Fee
+9/04/2026,Compliance Review,C104,Accountant,Review,35,Time and Materials
+9/04/2026,Onboarding,C101,Bookkeeper,Bookkeeping,15,Fixed Fee
+9/04/2026,Bookkeeping,C101,Bookkeeper,Reconciliation,60,Fixed Fee
+9/04/2026,Compliance Review,C102,Accountant,Review,45,Fixed Fee
+9/04/2026,Compliance Review,C102,Accountant,Compliance,150,Time and Materials
+10/04/2026,Payroll,C103,Bookkeeper,STP,60,Fixed Fee
+10/04/2026,Onboarding,C103,Bookkeeper,Bookkeeping,30,Fixed Fee
+10/04/2026,Onboarding,C103,Bookkeeper,Bookkeeping,120,Fixed Fee
+10/04/2026,Business Advisory,C104,Accountant,Strategic Planning,30,Fixed Fee
+13/04/2026,Superannuation,C104,Accountant,SMSF,45,Fixed Fee
+13/04/2026,Business Advisory,C102,Accountant,Business Advisory,210,Fixed Fee
+13/04/2026,Onboarding,C102,Accountant,Setup,120,Fixed Fee
+14/04/2026,BAS,C103,Bookkeeper,Business Advisory,180,Fixed Fee
+14/04/2026,Payroll,C103,Bookkeeper,STP,120,Fixed Fee
+15/04/2026,Payroll,C101,Bookkeeper,Payroll,15,Fixed Fee
+16/04/2026,Bookkeeping,C101,Bookkeeper,Bookkeeping,30,Fixed Fee
+16/04/2026,FBT,C102,Accountant,Compliance,35,Fixed Fee
+17/04/2026,Tax Planning,C104,Accountant,Business Advisory,180,Time and Materials
+20/04/2026,Bookkeeping,C103,Bookkeeper,Data Entry,90,Fixed Fee
+20/04/2026,Onboarding,C104,Accountant,Setup,35,Time and Materials
+20/04/2026,BAS,C101,Bookkeeper,BAS Preparation,210,Time and Materials
+21/04/2026,Year End,C103,Bookkeeper,Year End,45,Fixed Fee
+21/04/2026,Payroll,C103,Bookkeeper,STP,120,Fixed Fee
+22/04/2026,Payroll,C103,Bookkeeper,Compliance,60,Fixed Fee
+22/04/2026,Bookkeeping,C103,Bookkeeper,Bookkeeping,40,Fixed Fee
+22/04/2026,Year End,C104,Accountant,Compliance,45,Fixed Fee
+22/04/2026,Year End,C104,Accountant,Compliance,210,Fixed Fee
+22/04/2026,Tax Return,C104,Accountant,Compliance,45,Time and Materials
+22/04/2026,Year End,C101,Bookkeeper,Review,50,Fixed Fee
+22/04/2026,BAS,C101,Bookkeeper,Compliance,45,Time and Materials
+22/04/2026,BAS,C102,Accountant,Compliance,40,Fixed Fee
+23/04/2026,BAS,C103,Bookkeeper,Compliance,105,Fixed Fee
+23/04/2026,Superannuation,C104,Accountant,Superannuation,105,Fixed Fee
+24/04/2026,Bookkeeping,C103,Bookkeeper,Data Entry,90,Fixed Fee
+24/04/2026,Tax Planning,C102,Accountant,Business Advisory,150,Time and Materials
