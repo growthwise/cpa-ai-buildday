@@ -31,7 +31,7 @@ From here sometimes simple things can be effective enough e.g. what if your syst
 
 If it doesn't though you can create coded data from your existing data, that you can use a "key" or "mapping table" to unlock when your LLM has responded. 
 
-For an example of this see [Karbon Timesheet Spreadhseet](/files/karbon_example.csv) we have created a mapping table for team member.
+For an example of this see [Karbon Timesheet Spreadhseet](/files/karbon_timesheets_spreadsheet.xlsx) we have created a mapping table for team member.
 
 We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](resources/data_session/files/karbon_example.csv?raw=true)
 
