@@ -20,7 +20,7 @@ Now lets prompt
 
 "Create a spreadhseet summarising the transactions in this folder, and create a dashboard that shows the breakdown of spend categories"
 
-![alt text](image.png)
+![alt text](image-10.png)
 
 Click Let's Go
 
