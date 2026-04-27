@@ -11,7 +11,7 @@ For example
 - Xero Demo Organisation: several reports, with data are available from within this account. Make sure you've "reset" the account and then any report you download here you can use in an LLM to learn how to interact with it. 
 - Free Training Data for Example Jason Staat's [Fake Docs](https://drive.google.com/drive/folders/1bVm4_PMNm7aE6l7HC1WZqyB4Ti2jEdXZ)
 
-- Make your own data: Another technique is to use one row of data, and ask an LLM to create dummy records. For example [this](files/fyi_example.csv) is one record from an FYI job export. We can use it to generate thousands of records
+- Make your own data: Another technique is to use one row of data, and ask an LLM to create dummy records. For example [this](files/fyi_example.csv>raw=true) is one record from an FYI job export. We can use it to generate thousands of records
 
 Upload it to Claude and prompt
 
