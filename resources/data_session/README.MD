@@ -11,7 +11,7 @@ For example
 - Xero Demo Organisation: several reports, with data are available from within this account. Make sure you've "reset" the account and then any report you download here you can use in an LLM to learn how to interact with it. 
 - Free Training Data for Example Jason Staat's [Fake Docs](https://drive.google.com/drive/folders/1bVm4_PMNm7aE6l7HC1WZqyB4Ti2jEdXZ)
 
-- Make your own data: Another technique is to use one row of data, and ask an LLM to create dummy records. For example [this](resources/data_session/files/fyi_example.csv>raw=true) is one record from an FYI job export. We can use it to generate thousands of records
+- Make your own data: Another technique is to use one row of data, and ask an LLM to create dummy records. For example [this](/data_session/files/fyi_example.csv>raw=true) is one record from an FYI job export. We can use it to generate thousands of records
 
 Upload it to Claude and prompt
 
@@ -31,9 +31,9 @@ From here sometimes simple things can be effective enough e.g. what if your syst
 
 If it doesn't though you can create coded data from your existing data, that you can use a "key" or "mapping table" to unlock when your LLM has responded. 
 
-For an example of this see [Karbon Timesheet Spreadhseet](resources/data_session/files/karbon_example.csv?raw=true) we have created a mapping table for team member.
+For an example of this see [Karbon Timesheet Spreadhseet](/data_session/files/karbon_example.csv?raw=true) we have created a mapping table for team member.
 
-We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](resources/data_session/files/karbon_example.csv?raw=true)
+We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](/data_session/files/karbon_example.csv?raw=true)
 
 Once you have the CSV, upload into Cowork or Claude Chat and prompt 
 
