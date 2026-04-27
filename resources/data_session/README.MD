@@ -31,6 +31,14 @@ From here sometimes simple things can be effective enough e.g. what if your syst
 
 If it doesn't though you can create coded data from your existing data, that you can use a "key" or "mapping table" to unlock when your LLM has responded. 
 
+For an example of this see [Karbon Timesheet Spreadhseet](files/karbon_timesheets_spreadsheet.xlsx?raw=true) we have created a mapping table for team member.
+
+We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](files/karbon_example.csv?raw=true)
+
+Once you have the CSV, upload into Cowork or Claude Chat and prompt 
+
+``` Create a dashboard using this data that shows me where each team member spends their time, a visual graph and consolidated table will work ```
+
 _Some data types will require more work than others e.g. PDF's are not easily obfuscated_
 
 Remember as well sometimes data is exposed in more than one place, for example if you have the ability to extract data from an API, maybe it has a different data shape that requires less work to obfuscate. 
