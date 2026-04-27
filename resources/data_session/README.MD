@@ -33,7 +33,7 @@ If it doesn't though you can create coded data from your existing data, that you
 
 For an example of this see [Karbon Timesheet Spreadhseet](/data_session/files/karbon_example.csv?raw=true) we have created a mapping table for team member.
 
-We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](/data_session/files/karbon_example.csv?raw=true)
+We then removed anything identifying as all we want to see is a dashboard of where time is spent, other data becomes irrelevant see [Karbon Timesheet CSV](resources/data_session/files/karbon_example.csv?raw=true)
 
 Once you have the CSV, upload into Cowork or Claude Chat and prompt 
 
