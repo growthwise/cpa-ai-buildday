@@ -32,3 +32,31 @@ Ensure you connect your systems that are relevant to the brief
 ### Testing
 
 Run a test of the new routine now to ensure it works as expected
+
+# Role Play
+
+**Prompt:** I'd like you to help me practise a difficult conversation. I'm the Tax Agent, and you represent the client, who is a plumber. I, the Tax Agent, need to tell YOU the client that you cannot claim the trip to Italy through the business. You heard from a friend at the pub that you were able to do this.
+
+*\<wait for Claude to respond\>*
+
+---
+
+**Prompt:** Hello. Your trip to Italy sounds fabulous, however you are not able to claim the trip to Italy as a business expense.
+
+*\<wait for Claude to respond\>*
+
+---
+
+**Prompt:** Did you attend any conferences or have any meetings with anyone related to your business?
+
+*\<wait for Claude to respond\>*
+
+---
+
+**Prompt:** That's great you got to see different plumbing setups! However, for the trip to be a deductible business expense, the ATO requires a stronger business purpose, like attending a formal event, conference, or having set meetings with industry contacts. Observing setups informally doesn't meet the requirements, so unfortunately, it won't qualify for a business claim.
+
+---
+
+# Pub Trivia
+
+In 1950 Alan Turing published his work *"Computing Machinery and Intelligence"* which eventually became The Turing Test, which experts used to measure computer intelligence. This is when the term "artificial intelligence" came into popular use. His life is portrayed by Benedict Cumberbatch in *The Imitation Game* (2014).
