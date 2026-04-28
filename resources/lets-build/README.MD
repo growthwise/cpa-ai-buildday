@@ -18,7 +18,7 @@ In Cowork, chose the folder you just unzipped
 
 Now lets prompt 
 
-"Create a spreadhseet summarising the transactions in this folder, and create a dashboard that shows the breakdown of spend categories"
+"Create a spreadsheet summarising the transactions in this folder, and create a dashboard that shows the breakdown of spend categories"
 
 ![alt text](image-10.png)
 
