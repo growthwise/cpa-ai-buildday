@@ -12,7 +12,7 @@
 
 ### Composition red flags
 
-**Wages without Superannuation / PAYG.** Australian payroll always involves super (currently 11.5%) and PAYG withholding. If Wages and Salaries shows but neither shows, the payroll posting is incomplete. Super may sit under a separate "Superannuation" expense account or on the Balance Sheet as Super Payable — check both.
+**Wages without Superannuation / PAYG.** Australian payroll always involves super (currently 12%) and PAYG withholding. If Wages and Salaries shows but neither shows, the payroll posting is incomplete. Super may sit under a separate "Superannuation" expense account or on the Balance Sheet as Super Payable — check both.
 
 **Trading income but no Cost of Sales.** OK for service businesses, suspicious for retailers, manufacturers, hospitality, etc. Use the entity's industry context (if known) to judge.
 
